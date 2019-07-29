@@ -1,0 +1,11 @@
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Business Logic Layer\bin\Debug\Business Logic Layer.dll
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Business Logic Layer\bin\Debug\Business Logic Layer.pdb
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Business Logic Layer\bin\Debug\Data Access Layer.dll
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Business Logic Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Business Logic Layer\obj\Debug\Business Logic Layer.csprojAssemblyReference.cache
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Business Logic Layer\obj\Debug\Business Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Business Logic Layer\obj\Debug\Business Logic Layer.csproj.CopyComplete
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Business Logic Layer\obj\Debug\Business Logic Layer.dll
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Business Logic Layer\obj\Debug\Business Logic Layer.pdb
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Business Logic Layer\bin\Debug\Entity Layer.dll
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Business Logic Layer\bin\Debug\Entity Layer.pdb

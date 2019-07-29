@@ -1,0 +1,6 @@
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Entity Layer\bin\Debug\Entity Layer.dll
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Entity Layer\bin\Debug\Entity Layer.pdb
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Entity Layer\obj\Debug\Entity Layer.csprojAssemblyReference.cache
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Entity Layer\obj\Debug\Entity Layer.csproj.CoreCompileInputs.cache
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Entity Layer\obj\Debug\Entity Layer.dll
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Entity Layer\obj\Debug\Entity Layer.pdb

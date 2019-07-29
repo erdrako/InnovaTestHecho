@@ -1,0 +1,22 @@
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\bin\Debug\Presentation Layer.exe
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\bin\Debug\Presentation Layer.pdb
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\bin\Debug\Business Logic Layer.dll
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\bin\Debug\Data Access Layer.dll
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\bin\Debug\Business Logic Layer.pdb
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation Layer.csprojAssemblyReference.cache
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation_Layer.Form1.resources
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation Layer.csproj.CopyComplete
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation Layer.exe
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation Layer.pdb
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation_Layer.MainForm.resources
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation_Layer.NuevoAuto.resources
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation_Layer.NuevoCliente.resources
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation_Layer.NuevoServicio.resources
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\obj\Debug\Presentation_Layer.NuevoTipoServicio.resources
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\bin\Debug\Entity Layer.dll
+C:\Users\Main\Source\Repos\Servicio Mecanico Esco\Presentation Layer\bin\Debug\Entity Layer.pdb
